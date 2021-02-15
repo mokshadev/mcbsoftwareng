@@ -1,0 +1,374 @@
+ORDER REPORT FOR 15TH FEB 2021
+Order_Reference, Order_Period, Supplier_Name, Order_Total_Amount, Order_Status, Invoice_Reference,Invoice_Amount,Action
+3.4,JAN-20,Digisay Co. Ltd.,,Received,INV_PO003.2,10,000,OK
+
+3.4,JAN-20,Digisay Co. Ltd.,,Received,INV_PO003.2,10,000,OK
+
+3,JAN-20,Digisay Co. Ltd.,57,300.00,Closed,,,Verify
+
+3.3,JAN-20,Digisay Co. Ltd.,,Received,INV_PO003.1,5000,OK
+
+3.2,JAN-20,Digisay Co. Ltd.,,Received,INV_PO003.1,20300,OK
+
+3,JAN-20,Digisay Co. Ltd.,57,300.00,Closed,,,Verify
+
+3.1,JAN-20,Digisay Co. Ltd.,,Received,INV_PO003.1,22,000,OK
+
+3.1,JAN-20,Digisay Co. Ltd.,,Received,INV_PO003.1,22,000,OK
+
+3.2,JAN-20,Digisay Co. Ltd.,,Received,INV_PO003.1,20300,OK
+
+3.3,JAN-20,Digisay Co. Ltd.,,Received,INV_PO003.1,5000,OK
+
+13,AUG-20,Mottoway Corp.,5,819,625.00,Closed,,,Verify
+
+13.2,AUG-20,Mottoway Corp.,,Received,INV_PO013.1,1974000,OK
+
+13.4,AUG-20,Mottoway Corp.,,Received,INV_PO013.1,1091125,OK
+
+13.2,AUG-20,Mottoway Corp.,,Received,INV_PO013.1,1974000,OK
+
+13.3,AUG-20,Mottoway Corp.,,Received,INV_PO013.1,130,2000,OK
+
+13.4,AUG-20,Mottoway Corp.,,Received,INV_PO013.1,1091125,OK
+
+13.3,AUG-20,Mottoway Corp.,,Received,INV_PO013.1,130,2000,OK
+
+13,AUG-20,Mottoway Corp.,5,819,625.00,Closed,,,Verify
+
+13.1,08-201,Mottoway Corp.,,Received,INV_PO013.1,145,2500,OK
+
+13.1,08-201,Mottoway Corp.,,Received,INV_PO013.1,145,2500,OK
+
+9.1,JUN-20,Fireland Bros.,,Received,INV_PO009.1,22,500,OK
+
+9,JUN-20,Fireland Bros.,36,800.00,Open,,,Verify
+
+9,JUN-20,Fireland Bros.,36,800.00,Open,,,Verify
+
+9.1,JUN-20,Fireland Bros.,,Received,INV_PO009.1,22,500,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.2,4300,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.6,60,000,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.4,50200,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.3,25,400,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.1,24300,OK
+
+6,FEB-20,Stuffie Stationery,250,000.00,Open,,,Verify
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.2,4300,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.6,60,000,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.4,50200,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.3,25,400,OK
+
+6.1,FEB-20,Stuffie Stationery,,Received,INV_PO006.1,24300,OK
+
+6,FEB-20,Stuffie Stationery,250,000.00,Open,,,Verify
+
+12.3,AUG-20,Pegasus Ltd,,Received,INV_PO012.1,7250,OK
+
+12.2,AUG-20,Pegasus Ltd,,Received,INV_PO012.3,28000,OK
+
+12.5,AUG-20,Pegasus Ltd,,Received,INV_PO012.3,12600,OK
+
+12.1,AUG-20,Pegasus Ltd,,Received,INV_PO012.1,3,450,OK
+
+12,AUG-20,Pegasus Ltd,265,000.00,Open,,,Verify
+
+12.1,AUG-20,Pegasus Ltd,,Received,INV_PO012.1,3,450,OK
+
+12,AUG-20,Pegasus Ltd,265,000.00,Open,,,Verify
+
+12.1,AUG-20,Pegasus Ltd,,Received,INV_PO012.2,40000,OK
+
+12.2,AUG-20,Pegasus Ltd,,Received,INV_PO012.1,37800,OK
+
+12.2,AUG-20,Pegasus Ltd,,Received,INV_PO012.2,12,500,OK
+
+12.2,AUG-20,Pegasus Ltd,,Received,INV_PO012.3,28000,OK
+
+12.3,AUG-20,Pegasus Ltd,,Received,INV_PO012.1,7250,OK
+
+12.4,AUG-20,Pegasus Ltd,,Received,INV_PO012.2,55,870,OK
+
+12.5,AUG-20,Pegasus Ltd,,Received,INV_PO012.3,43750,OK
+
+12.5,AUG-20,Pegasus Ltd,,Received,INV_PO012.3,12600,OK
+
+12.2,AUG-20,Pegasus Ltd,,Received,INV_PO012.2,12,500,OK
+
+12.1,AUG-20,Pegasus Ltd,,Received,INV_PO012.2,40000,OK
+
+12.2,AUG-20,Pegasus Ltd,,Received,INV_PO012.1,37800,OK
+
+12.4,AUG-20,Pegasus Ltd,,Received,INV_PO012.2,55,870,OK
+
+12.5,AUG-20,Pegasus Ltd,,Received,INV_PO012.3,43750,OK
+
+6.1,02-201,Stuffie Stationery,,Received,INV_PO006.5,70800,OK
+
+6.1,02-201,Stuffie Stationery,,Received,INV_PO006.5,70800,OK
+
+14,SEP-20,Digisay Co. Ltd.,400,120.00,Open,,,Verify
+
+14.1,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,5,600,OK
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.2,10,000,OK
+
+14.4,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,15900,OK
+
+14.5,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.4,13850,To follow up
+
+14.1,SEP-20,Digisay Co. Ltd.,,Cancelled,,,Verify
+
+14.1,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,54,850,OK
+
+14.2,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,13500,OK
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,4275,OK
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,900,To follow up
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.4,17,600,OK
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.4,11900,OK
+
+14.4,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,7920,OK
+
+14.4,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.2,3550,To follow up
+
+14.4,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,15,200,OK
+
+14.5,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,5300,OK
+
+14.5,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,12125,OK
+
+14.5,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,72500,To follow up
+
+14,SEP-20,Digisay Co. Ltd.,400,120.00,Open,,,Verify
+
+14.1,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,5,600,OK
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.2,10,000,OK
+
+14.4,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,15900,OK
+
+14.5,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.4,13850,To follow up
+
+14.1,SEP-20,Digisay Co. Ltd.,,Cancelled,,,Verify
+
+14.1,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,54,850,OK
+
+14.2,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,13500,OK
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,4275,OK
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,900,To follow up
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.4,17,600,OK
+
+14.3,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.4,11900,OK
+
+14.4,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,7920,OK
+
+14.4,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.2,3550,To follow up
+
+14.4,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,15,200,OK
+
+14.5,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,5300,OK
+
+14.5,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.3,12125,OK
+
+14.5,SEP-20,Digisay Co. Ltd.,,Received,INV_PO014.1,72500,To follow up
+
+14.5,09-201,Digisay Co. Ltd.,,Cancelled,,,Verify
+
+14.2,09-201,Digisay Co. Ltd.,,Received,INV_PO014.1,17300,OK
+
+14.2,09-201,Digisay Co. Ltd.,,Received,INV_PO014.2,13250,OK
+
+14.5,09-201,Digisay Co. Ltd.,,Cancelled,,,Verify
+
+14.2,09-201,Digisay Co. Ltd.,,Received,INV_PO014.1,17300,OK
+
+14.2,09-201,Digisay Co. Ltd.,,Received,INV_PO014.2,13250,OK
+
+2.1,JAN-20,Mottoway Corp.,,Received,INV_PO002.3,249000,To follow up
+
+2,JAN-20,Mottoway Corp.,750,000.00,Open,,,Verify
+
+2.1,JAN-20,Mottoway Corp.,,Received,INV_PO002.2,300,000,OK
+
+2.1,JAN-20,Mottoway Corp.,,Received,INV_PO002.1,100000,OK
+
+2.1,JAN-20,Mottoway Corp.,,Received,INV_PO002.3,249000,To follow up
+
+2.1,JAN-20,Mottoway Corp.,,Received,INV_PO002.2,300,000,OK
+
+2.1,JAN-20,Mottoway Corp.,,Received,INV_PO002.1,100000,OK
+
+2,JAN-20,Mottoway Corp.,750,000.00,Open,,,Verify
+
+4,FEB-20,Lamboni Stat Inc.,6,800.00,Closed,,,Verify
+
+4.1,FEB-20,Lamboni Stat Inc.,2,000.00,Received,INV_PO004,2,000,OK
+
+4.4,FEB-20,Lamboni Stat Inc.,600.00,Cancelled,,,Verify
+
+4.3,FEB-20,Lamboni Stat Inc.,3,000.00,Received,INV_PO004.1,3000,OK
+
+4.2,FEB-20,Lamboni Stat Inc.,2,000.00,Received,INV_PO004,I200,OK
+
+4.1,FEB-20,Lamboni Stat Inc.,2,000.00,Received,INV_PO004,2,000,OK
+
+4,FEB-20,Lamboni Stat Inc.,6,800.00,Closed,,,Verify
+
+4.3,FEB-20,Lamboni Stat Inc.,3,000.00,Received,INV_PO004.1,3000,OK
+
+4.4,FEB-20,Lamboni Stat Inc.,600.00,Cancelled,,,Verify
+
+4.2,FEB-20,Lamboni Stat Inc.,2,000.00,Received,INV_PO004,I200,OK
+
+5.2,APR-20,Emtello Ltd,,Received,INV_PO005.1,5000,OK
+
+5.4,APR-20,Emtello Ltd,,Received,INV_PO005.2,S000,OK
+
+5,APR-20,Emtello Ltd,21,000.00,Closed,,,Verify
+
+5.1,APR-20,Emtello Ltd,,Received,INV_PO005.1,3,000,To follow up
+
+5.3,APR-20,Emtello Ltd,,Received,INV_PO005.2,8000,OK
+
+5.4,APR-20,Emtello Ltd,,Received,INV_PO005.2,S000,OK
+
+5.3,APR-20,Emtello Ltd,,Received,INV_PO005.2,8000,OK
+
+5,APR-20,Emtello Ltd,21,000.00,Closed,,,Verify
+
+5.1,APR-20,Emtello Ltd,,Received,INV_PO005.1,3,000,To follow up
+
+5.2,APR-20,Emtello Ltd,,Received,INV_PO005.1,5000,OK
+
+11.2,JUL-20,Lamboni Stat Inc.,,Received,INV_PO011.1,40000,OK
+
+11.2,JUL-20,Lamboni Stat Inc.,,Received,INV_PO011.1,40000,OK
+
+11.1,JUL-20,Lamboni Stat Inc.,,Received,INV_PO011.1,3,200,OK
+
+11.1,JUL-20,Lamboni Stat Inc.,,Received,INV_PO011.1,3,200,OK
+
+11,07-201,Lamboni Stat Inc.,43,200.00,Closed,,,Verify
+
+11,07-201,Lamboni Stat Inc.,43,200.00,Closed,,,Verify
+
+8.2,JUN-20,Jinfix Computers,,Received,INV_PO008.2,6,950,OK
+
+8.2,JUN-20,Jinfix Computers,,Received,INV_PO008.2,23000,OK
+
+8.1,JUN-20,Jinfix Computers,,Received,INV_PO008.2,15,000,OK
+
+8.2,JUN-20,Jinfix Computers,,Received,INV_PO008.1,25000,OK
+
+8.1,JUN-20,Jinfix Computers,,Received,INV_PO008.1,15250,OK
+
+8,JUN-20,Jinfix Computers,85,200.00,Open,,,Verify
+
+8.2,JUN-20,Jinfix Computers,,Received,INV_PO008.2,6,950,OK
+
+8.2,JUN-20,Jinfix Computers,,Received,INV_PO008.2,23000,OK
+
+8.1,JUN-20,Jinfix Computers,,Received,INV_PO008.2,15,000,OK
+
+8.2,JUN-20,Jinfix Computers,,Received,INV_PO008.1,25000,OK
+
+8.1,JUN-20,Jinfix Computers,,Received,INV_PO008.1,15250,OK
+
+8,JUN-20,Jinfix Computers,85,200.00,Open,,,Verify
+
+7.2,JUN-20,Safedest Taxi Services,,Received,INV_PO007.1,4200,OK
+
+7.1,JUN-20,Safedest Taxi Services,,Received,INV_PO007.1,4500,OK
+
+7.5,JUN-20,Safedest Taxi Services,,Received,INV_PO007.1,3700,OK
+
+7.4,JUN-20,Safedest Taxi Services,,Received,INV_PO007.1,4800,OK
+
+7.5,JUN-20,Safedest Taxi Services,,Received,INV_PO007.1,3700,OK
+
+7.2,JUN-20,Safedest Taxi Services,,Received,INV_PO007.1,4200,OK
+
+7.1,JUN-20,Safedest Taxi Services,,Received,INV_PO007.1,4500,OK
+
+7.3,JUN-20,Safedest Taxi Services,,Cancelled,,,Verify
+
+7.4,JUN-20,Safedest Taxi Services,,Received,INV_PO007.1,4800,OK
+
+7.3,JUN-20,Safedest Taxi Services,,Cancelled,,,Verify
+
+10.2,JUL-20,Foxy Electronics,,Received,INV_PO010.1,28000,OK
+
+10.2,JUL-20,Foxy Electronics,,Received,INV_PO010.1,18200,OK
+
+10,JUL-20,Foxy Electronics,182,700.00,Closed,,,Verify
+
+10.1,JUL-20,Foxy Electronics,,Received,INV_PO010.1,98,000,OK
+
+10.1,JUL-20,Foxy Electronics,,Received,INV_PO010.1,17,500,OK
+
+10.2,JUL-20,Foxy Electronics,,Received,INV_PO010.1,28000,OK
+
+10.2,JUL-20,Foxy Electronics,,Received,INV_PO010.1,18200,OK
+
+10,JUL-20,Foxy Electronics,182,700.00,Closed,,,Verify
+
+10.1,JUL-20,Foxy Electronics,,Received,INV_PO010.1,98,000,OK
+
+10.1,JUL-20,Foxy Electronics,,Received,INV_PO010.1,17,500,OK
+
+1,JAN-20,Pegasus Ltd,10,000.00,Closed,,,Verify
+
+1.6,JAN-20,Pegasus Ltd,,Received,INV_PO001.1,1100,OK
+
+1.5,JAN-20,Pegasus Ltd,,Received,INV_PO001.1,3000,OK
+
+1.4,JAN-20,Pegasus Ltd,,Received,INV_PO001,800,OK
+
+1,JAN-20,Pegasus Ltd,10,000.00,Closed,,,Verify
+
+1,JAN-20,Pegasus Ltd,10,000.00,Closed,,,Verify
+
+1.1,JAN-20,Pegasus Ltd,,Received,INV_PO001,25oo,OK
+
+1.2,JAN-20,Pegasus Ltd,,Received,INV_PO001,600,OK
+
+1.3,JAN-20,Pegasus Ltd,,Received,INV_PO001,2,000,OK
+
+1.4,JAN-20,Pegasus Ltd,,Received,INV_PO001,800,OK
+
+1.5,JAN-20,Pegasus Ltd,,Received,INV_PO001.1,3000,OK
+
+1.6,JAN-20,Pegasus Ltd,,Received,INV_PO001.1,1100,OK
+
+1,JAN-20,Pegasus Ltd,10,000.00,Closed,,,Verify
+
+1.1,JAN-20,Pegasus Ltd,,Received,INV_PO001,25oo,OK
+
+1.2,JAN-20,Pegasus Ltd,,Received,INV_PO001,600,OK
+
+1.3,JAN-20,Pegasus Ltd,,Received,INV_PO001,2,000,OK
+
+10.3,07-201,Foxy Electronics,,Received,INV_PO010.1,21000,OK
+
+10.3,07-201,Foxy Electronics,,Received,INV_PO010.1,21000,OK
+
+7,06-201,Safedest Taxi Services,26,700.00,Closed,,,Verify
+
+7,06-201,Safedest Taxi Services,26,700.00,Closed,,,Verify
+
